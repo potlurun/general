@@ -45,7 +45,7 @@ env:
 
   # 🖊️ EDIT to change the image registry settings.
   # Registries such as GHCR, Quay.io, and Docker Hub are supported.
-  IMAGE_REGISTRY: https://github.com/potlurun.git
+  IMAGE_REGISTRY: https://github.com/potlurun/general.git
   IMAGE_REGISTRY_USER: potlurun
   IMAGE_REGISTRY_PASSWORD: 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
 
